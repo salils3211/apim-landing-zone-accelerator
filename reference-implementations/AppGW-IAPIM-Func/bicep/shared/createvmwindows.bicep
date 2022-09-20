@@ -15,7 +15,7 @@ param vmSize string = 'Standard_D4_v3'
 param username string
 
 @secure()
-@description('The password for the Administrator user for all VMs created by this deployment')
+//@description('The password for the Administrator user for all VMs created by this deployment')
 param password string
 
 @description('Windows OS Version indicator')
