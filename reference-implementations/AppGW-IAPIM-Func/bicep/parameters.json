@@ -3,31 +3,31 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "vmUsername": {
-            "value": "ENTERUSERNAME"
+            "value": "agent"
         },
         "vmPassword": {
-            "value": "ENTERPASSWORD"
+            "value": "Malai1tuch!@"
         },
         "accountName": {
-            "value": "https://dev.azure.com/ORGNAME OR github.com/ORGUSERNAME OR none"
+            "value": "https://github.com/salils3211"
         },
         "personalAccessToken": {
-            "value": "ENTERPAT"
+            "value": "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"
         },
         "workloadName" :{ 
             "value": "demoWL"
         },
         "CICDAgentType": {
-            "value": "azuredevops OR github OR none"
+            "value": "azuredevops"
         },
         "environment" :{ 
             "value": "dev"
         },
         "appGatewayFqdn" :{ 
-            "value": "ENTER FQDN"
+            "value": "testappgw"
         },
         "appGatewayCertType" :{
-            "value": "selfsigned or custom"
+            "value": "selfsigned"
         }
     }
 }
