@@ -1,4 +1,4 @@
-$LOCATION = "westeurope"
+$LOCATION = "centralindia"
 $BICEP_FILE="main.bicep"
 
 # delete a deployment
